@@ -1,0 +1,52 @@
+[
+  {
+    "id":0,
+    "name": "pencil",
+    "price": 0.10,
+    "stock": 100,
+    "col_number": 1,
+    "row_number": 1,
+    "side": 2,
+    "shelf": 2
+  },
+  {
+    "id":1,
+    "name": "mechanical pencil",
+    "price": 6.00,
+    "stock": 100,
+    "col_number": 2,
+    "row_number": 3,
+    "side": 2,
+    "shelf": 6
+  },
+  {
+    "id":2,
+    "name": "pen",
+    "price": 2.00,
+    "stock": 100,
+    "col_number": 3,
+    "row_number": 5,
+    "side": 1,
+    "shelf": 1
+  },
+  {
+    "id":3,
+    "name": "Sharpie",
+    "price": 1.50,
+    "stock": 100,
+    "col_number": 7,
+    "row_number": 2,
+    "side": 1,
+    "shelf": 6
+  },
+  {
+    "id":4,
+    "name": "iPhone",
+    "price": 900.00,
+    "stock": 100,
+    "col_number": 6,
+    "row_number": 4,
+    "side": 2,
+    "shelf": 4
+  }
+]
