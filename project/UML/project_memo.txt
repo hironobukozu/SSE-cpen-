@@ -1,0 +1,32 @@
+LAYOUT
+
+* grid ( labeled alphabet and numbers,right,# of shelf, limited weight capacity for shelf)
+* products are randomly distributed on shelves
+* dock(fixed number)
+
+CENTRAL COMPUTER
+
+*keeps track of
+	->database of products and inventory
+	->the location of inventory within the warehouse
+	->a list of orders received, orders ready for delivery,order out for delivery
+	->the arrival departure of delivery and restocking trucks
+
+IMPLEMENTATION
+
+central warehouse computer
+the user-interface for the computer
+the automation robots
+remote webserver that places orders
+delivery and restocking trucks
+
+a fixed warehouse layout
+4 robots
+5 products
+
+A Use-Case Diagram along with descriptions of use cases and use case scenarios
+A Class Diagram outlining your code structure
+An Object Interaction Diagram to outline how the major components communicate
+Sequence Diagram(s) for any non-trivial interactions
+Descriptions of any communication protocols developed
+Function specifications for any useful ÅgpublicÅh functions (i.e. public member functions, re-useable headers, etcÅc)
